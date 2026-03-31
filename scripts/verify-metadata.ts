@@ -35,11 +35,25 @@ for (const stat of fs.readdirSync('./', { withFileTypes: true })) {
 		logError(packDir, 'package.json missing name')
 		continue
 	}
-	if (readmeLines[0] !== `# ${packageJson.displayName}`) {
+	if (readmeLines[0].replace(/\\/g, '') !== `# ${packageJson.displayName}`) {
 		logError(
 			packDir,
 			`README title "${readmeLines[0]}" is not equal to "# ${packageJson.displayName}"`,
 		)
+	}
+
+	// Assert that config.namePretty matches the last part of displayName.
+	const config = (packageJson as any).config
+	if (!config || !config.namePretty) {
+		logError(packDir, 'package.json missing config.namePretty')
+	} else if (packageJson.displayName) {
+		const lastPart = packageJson.displayName.split(':').at(-1).trim()
+		if (lastPart !== config.namePretty) {
+			logError(
+				packDir,
+				`config.namePretty "${config.namePretty}" does not match last part of displayName "${lastPart}"`,
+			)
+		}
 	}
 
 	// Assert that readme has correct marketplace links.
