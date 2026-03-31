@@ -36,21 +36,17 @@ interface PackageJsonConfig {
 	vscodeEngine?: string
 }
 
-const CONFIG: PackageJsonConfig = {
+const packageJsonConfig: PackageJsonConfig = {
 	name: 'vscode-hyperupcall-pack-bundled-themes',
 	displayName: "Edwin's Pack: Bundled Themes",
 	description: 'A bundle of VSCode themes',
-	version: '0.1.0',
 	publisher: 'EdwinKofler',
 	author: {
 		name: 'Edwin Kofler',
 		url: 'https://edwinkofler.com',
 	},
-	license: 'MPL-2.0',
-	repository: {
-		type: 'git',
-		url: 'https://github.com/hyperupcall-self/vscode-hyperupcall-packs',
-	},
+	license: '',
+	repository: 'https://github.com/hyperupcall-self/vscode-hyperupcall-packs',
 	vscodeEngine: '^1.80.0',
 }
 
@@ -70,6 +66,7 @@ class ThemeBundler {
 
 	async initialize() {
 		await fs.mkdir(this.outputDir, { recursive: true })
+		await fs.rm(this.themesDir, { recursive: true, force: true })
 		await fs.mkdir(this.themesDir, { recursive: true })
 		await fs.mkdir(this.cacheDir, { recursive: true })
 
@@ -346,7 +343,11 @@ class ThemeBundler {
 		}
 	}
 
-	async copyThemeFile(sourcePath: string, themeName: string): Promise<string> {
+	async copyThemeFile(
+		sourcePath: string,
+		themeName: string,
+		extensionId: string,
+	): Promise<string> {
 		const normalizedSourcePath = path.resolve(sourcePath)
 		if (this.copiedThemeFiles.has(normalizedSourcePath)) {
 			const existingDestPath = this.copiedThemeFiles.get(normalizedSourcePath)!
@@ -362,7 +363,11 @@ class ThemeBundler {
 			await fs.access(destinationPath)
 			const ext = path.extname(fileName)
 			const nameWithoutExt = path.basename(fileName, ext)
-			finalDestination = path.join(this.themesDir, `${nameWithoutExt}-${themeName}${ext}`)
+			const extensionName = extensionId.replace(/\./g, '-')
+			finalDestination = path.join(
+				this.themesDir,
+				`${nameWithoutExt}-${extensionName}-${themeName}${ext}`,
+			)
 		} catch (error) {}
 
 		await fs.copyFile(sourcePath, finalDestination)
@@ -393,7 +398,11 @@ class ThemeBundler {
 
 				try {
 					await fs.access(themeFilePath)
-					const newDestPath = await this.copyThemeFile(themeFilePath, theme.label)
+					const newDestPath = await this.copyThemeFile(
+						themeFilePath,
+						theme.label,
+						extensionId,
+					)
 
 					this.bundledThemes.push({
 						...theme,
@@ -411,29 +420,28 @@ class ThemeBundler {
 	}
 
 	async savePackageJson(): Promise<void> {
-		this.currentPackageJson.contributes!.themes = [
-			...(this.currentPackageJson.contributes!.themes || []),
-			...this.bundledThemes,
-		]
+		this.currentPackageJson.contributes!.themes = this.bundledThemes
 
 		const configToMerge: any = {}
 
-		if (CONFIG.name) configToMerge.name = CONFIG.name
-		if (CONFIG.displayName) configToMerge.displayName = CONFIG.displayName
-		if (CONFIG.description) configToMerge.description = CONFIG.description
-		if (CONFIG.version) configToMerge.version = CONFIG.version
-		if (CONFIG.publisher) configToMerge.publisher = CONFIG.publisher
-		if (CONFIG.author) configToMerge.author = CONFIG.author
-		if (CONFIG.license) configToMerge.license = CONFIG.license
-		if (CONFIG.repository) {
+		if (packageJsonConfig.name) configToMerge.name = packageJsonConfig.name
+		if (packageJsonConfig.displayName)
+			configToMerge.displayName = packageJsonConfig.displayName
+		if (packageJsonConfig.description)
+			configToMerge.description = packageJsonConfig.description
+		if (packageJsonConfig.version) configToMerge.version = packageJsonConfig.version
+		if (packageJsonConfig.publisher) configToMerge.publisher = packageJsonConfig.publisher
+		if (packageJsonConfig.author) configToMerge.author = packageJsonConfig.author
+		if (packageJsonConfig.license) configToMerge.license = packageJsonConfig.license
+		if (packageJsonConfig.repository) {
 			configToMerge.repository = {
 				type: 'git',
-				url: CONFIG.repository,
+				url: packageJsonConfig.repository,
 			}
 		}
-		if (CONFIG.vscodeEngine) {
+		if (packageJsonConfig.vscodeEngine) {
 			configToMerge.engines = {
-				vscode: CONFIG.vscodeEngine,
+				vscode: packageJsonConfig.vscodeEngine,
 			}
 		}
 
