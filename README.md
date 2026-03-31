@@ -49,10 +49,10 @@ Click the _Extensions_ tab and search for `Edwin's Pack:` to see all the packs. 
 			"extensions": [
 				"EdwinKofler.vscode-hyperupcall-pack-core",
 				"EdwinKofler.vscode-hyperupcall-pack-web",
-				"EdwinKofler.vscode-hyperupcall-pack-unix"
-			]
-		}
-	}
+				"EdwinKofler.vscode-hyperupcall-pack-unix",
+			],
+		},
+	},
 }
 ```
 
@@ -68,4 +68,4 @@ Click the _Extensions_ tab and search for `Edwin's Pack:` to see all the packs. 
 - Rust Logo: [Rust Foundation, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg)
 - JavaScript Logo: [Christopher Williams, Public domain, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg)
 - Unix Logo: [lewing@isc.tamu.edu Larry Ewing and The GIMP, CC0 1.0, via Wikimedia Commons](https://en.wikipedia.org/wiki/File:Tux.svg)
-- Windows Logo: [Microsoft, Public domain, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Windows_Logo_(1992-2001).svg)
+- Windows Logo: [Microsoft, Public domain, via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Windows_Logo_(1992-2001).svg>)

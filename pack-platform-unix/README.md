@@ -1,4 +1,4 @@
-# Edwin's Pack: *nix
+# Edwin's Pack: \*nix
 
 - See on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall-pack-unix)
 - See on [Open VSX](https://open-vsx.org/extension/EdwinKofler/vscode-hyperupcall-pack-unix)

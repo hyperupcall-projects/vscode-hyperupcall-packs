@@ -11,4 +11,3 @@ Includes:
 - [Edwin's Pack: Product Icons](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall-pack-product-icons)
 - [Edwin's Pack: Syntax](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall-pack-syntax)
 - [Edwin's Pack: Markdown](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall-pack-markdown)
-
