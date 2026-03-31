@@ -74,7 +74,7 @@
 			"name": "vscode-hyperupcall-pack-bundled-themes",
 			"displayName": "Edwin's Pack: Bundled Themes",
 			"description": "A bundle of VSCode themes",
-			"version": "0.1.0",
+			"version": "0.1.1",
 			"publisher": "EdwinKofler",
 			"icon": "assets/icon.png",
 			"config": {
