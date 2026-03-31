@@ -3,3 +3,4 @@ build/
 *.log
 *.vsix
 .ovsx-token
+.cache/

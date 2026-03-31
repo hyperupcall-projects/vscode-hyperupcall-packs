@@ -1,0 +1,31 @@
+# Edwin's Pack: Bundled Themes
+
+- See on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall-pack-bundled-themes)
+- See on [Open VSX](https://open-vsx.org/extension/EdwinKofler/vscode-hyperupcall-pack-bundled-themes)
+
+Includes:
+
+- [teabyii.ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+- [BeardedBear.beardedtheme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
+- [jdinhlife.gruvbox](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox)
+- [liviuschera.noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
+- [ms-vscode.Theme-MaterialKit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MaterialKit)
+- [ms-vscode.Theme-TomorrowKit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit)
+- [ms-vscode.cpptools-themes](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes)
+- [dracula-theme.theme-dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [Catppuccin.catppuccin-vsc](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- [zhuangtongfa.material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme)
+- [whizkydee.material-palenight-theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+- [idleberg.hopscotch](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch)
+- [sdras.night-owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+- [enkia.tokyo-night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+- [azemoh.one-monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
+- [ahmadawais.shades-of-purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+- [RobbOwen.synthwave-vscode](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+- [johnpapa.winteriscoming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+- [uloco.theme-bluloco-light](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-light)
+- [uloco.theme-bluloco-dark](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark)
+- [ms-vscode.Theme-1337](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-1337)
+- [GitHub.github-vscode-theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- [arcticicestudio.nord-visual-studio-code](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+- [tinkertrain.theme-panda](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
