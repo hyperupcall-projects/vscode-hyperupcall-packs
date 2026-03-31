@@ -28,21 +28,14 @@
 			}
 		},
 		{
-			"scope": [
-				"comment",
-				"punctuation.definition.comment"
-			],
+			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"foreground": "#928374",
 				"fontStyle": "italic"
 			}
 		},
 		{
-			"scope": [
-				"constant",
-				"support.constant",
-				"variable.arguments"
-			],
+			"scope": ["constant", "support.constant", "variable.arguments"],
 			"settings": {
 				"foreground": "#8f3f71"
 			}
@@ -66,19 +59,13 @@
 			}
 		},
 		{
-			"scope": [
-				"entity.name.tag",
-				"punctuation.tag"
-			],
+			"scope": ["entity.name.tag", "punctuation.tag"],
 			"settings": {
 				"foreground": "#427b58"
 			}
 		},
 		{
-			"scope": [
-				"invalid",
-				"invalid.illegal"
-			],
+			"scope": ["invalid", "invalid.illegal"],
 			"settings": {
 				"foreground": "#cc241d"
 			}
@@ -126,10 +113,7 @@
 			}
 		},
 		{
-			"scope": [
-				"storage.type",
-				"storage.modifier"
-			],
+			"scope": ["storage.type", "storage.modifier"],
 			"settings": {
 				"foreground": "#af3a03"
 			}
@@ -271,10 +255,7 @@
 			}
 		},
 		{
-			"scope": [
-				"variable.this",
-				"support.variable"
-			],
+			"scope": ["variable.this", "support.variable"],
 			"settings": {
 				"foreground": "#8f3f71"
 			}
@@ -294,10 +275,7 @@
 		},
 		{
 			"name": "Function declarations",
-			"scope": [
-				"entity.function",
-				"entity.name.function.static"
-			],
+			"scope": ["entity.function", "entity.name.function.static"],
 			"settings": {
 				"foreground": "#427b58"
 			}
@@ -351,9 +329,7 @@
 			}
 		},
 		{
-			"scope": [
-				"punctuation"
-			],
+			"scope": ["punctuation"],
 			"settings": {
 				"foreground": "#7c6f64"
 			}
@@ -372,21 +348,14 @@
 		},
 		{
 			"name": "URL",
-			"scope": [
-				"*url*",
-				"*link*",
-				"*uri*"
-			],
+			"scope": ["*url*", "*link*", "*uri*"],
 			"settings": {
 				"fontStyle": "underline"
 			}
 		},
 		{
 			"name": "Python function",
-			"scope": [
-				"meta.function.python",
-				"entity.name.function.python"
-			],
+			"scope": ["meta.function.python", "entity.name.function.python"],
 			"settings": {
 				"foreground": "#427b58"
 			}
@@ -405,9 +374,7 @@
 		},
 		{
 			"name": "Async keyword",
-			"scope": [
-				"storage.type.function.async.python"
-			],
+			"scope": ["storage.type.function.async.python"],
 			"settings": {
 				"foreground": "#9d0006"
 			}
@@ -454,10 +421,7 @@
 			}
 		},
 		{
-			"scope": [
-				"string.interpolated.dollar.shell",
-				"string.interpolated.backtick.shell"
-			],
+			"scope": ["string.interpolated.dollar.shell", "string.interpolated.backtick.shell"],
 			"settings": {
 				"foreground": "#427b58"
 			}
@@ -499,10 +463,7 @@
 		},
 		{
 			"name": "C# This",
-			"scope": [
-				"keyword.other.this.cs",
-				"keyword.other.base.cs"
-			],
+			"scope": ["keyword.other.this.cs", "keyword.other.base.cs"],
 			"settings": {
 				"foreground": "#8f3f71"
 			}
@@ -522,19 +483,13 @@
 		},
 		{
 			"name": "coloring of the Java import and package identifiers",
-			"scope": [
-				"storage.modifier.import.java",
-				"storage.modifier.package.java"
-			],
+			"scope": ["storage.modifier.import.java", "storage.modifier.package.java"],
 			"settings": {
 				"foreground": "#665c54"
 			}
 		},
 		{
-			"scope": [
-				"keyword.other.import.java",
-				"keyword.other.package.java"
-			],
+			"scope": ["keyword.other.import.java", "keyword.other.package.java"],
 			"settings": {
 				"foreground": "#427b58"
 			}
@@ -693,10 +648,7 @@
 			}
 		},
 		{
-			"scope": [
-				"markup.inline.raw",
-				"markup.fenced_code.block"
-			],
+			"scope": ["markup.inline.raw", "markup.fenced_code.block"],
 			"settings": {
 				"foreground": "#427b58"
 			}
@@ -754,129 +706,95 @@
 			}
 		},
 		{
-			"scope": [
-				"entity.name.tag.css"
-			],
+			"scope": ["entity.name.tag.css"],
 			"settings": {
 				"fontStyle": ""
 			}
 		},
 		{
-			"scope": [
-				"punctuation.definition.tag"
-			],
+			"scope": ["punctuation.definition.tag"],
 			"settings": {
 				"foreground": "#076678"
 			}
 		},
 		{
-			"scope": [
-				"text.html entity.name.tag",
-				"text.html punctuation.tag"
-			],
+			"scope": ["text.html entity.name.tag", "text.html punctuation.tag"],
 			"settings": {
 				"foreground": "#427b58",
 				"fontStyle": "bold"
 			}
 		},
 		{
-			"scope": [
-				"source.js variable.language"
-			],
+			"scope": ["source.js variable.language"],
 			"settings": {
 				"foreground": "#af3a03"
 			}
 		},
 		{
-			"scope": [
-				"source.ts variable.language"
-			],
+			"scope": ["source.ts variable.language"],
 			"settings": {
 				"foreground": "#af3a03"
 			}
 		},
 		{
-			"scope": [
-				"source.go storage.type"
-			],
+			"scope": ["source.go storage.type"],
 			"settings": {
 				"foreground": "#b57614"
 			}
 		},
 		{
-			"scope": [
-				"source.go entity.name.import"
-			],
+			"scope": ["source.go entity.name.import"],
 			"settings": {
 				"foreground": "#79740e"
 			}
 		},
 		{
-			"scope": [
-				"source.go keyword.package",
-				"source.go keyword.import"
-			],
+			"scope": ["source.go keyword.package", "source.go keyword.import"],
 			"settings": {
 				"foreground": "#427b58"
 			}
 		},
 		{
-			"scope": [
-				"source.go keyword.interface",
-				"source.go keyword.struct"
-			],
+			"scope": ["source.go keyword.interface", "source.go keyword.struct"],
 			"settings": {
 				"foreground": "#076678"
 			}
 		},
 		{
-			"scope": [
-				"source.go entity.name.type"
-			],
+			"scope": ["source.go entity.name.type"],
 			"settings": {
 				"foreground": "#3c3836"
 			}
 		},
 		{
-			"scope": [
-				"source.go entity.name.function"
-			],
+			"scope": ["source.go entity.name.function"],
 			"settings": {
 				"foreground": "#8f3f71"
 			}
 		},
 		{
-			"scope": [
-				"keyword.control.cucumber.table"
-			],
+			"scope": ["keyword.control.cucumber.table"],
 			"settings": {
 				"foreground": "#076678"
 			}
 		},
 		{
 			"name": "ReasonML String",
-			"scope": [
-				"source.reason string.double",
-				"source.reason string.regexp"
-			],
+			"scope": ["source.reason string.double", "source.reason string.regexp"],
 			"settings": {
 				"foreground": "#79740e"
 			}
 		},
 		{
 			"name": "ReasonML equals sign",
-			"scope": [
-				"source.reason keyword.control.less"
-			],
+			"scope": ["source.reason keyword.control.less"],
 			"settings": {
 				"foreground": "#427b58"
 			}
 		},
 		{
 			"name": "ReasonML variable",
-			"scope": [
-				"source.reason entity.name.function"
-			],
+			"scope": ["source.reason entity.name.function"],
 			"settings": {
 				"foreground": "#076678"
 			}
@@ -893,27 +811,21 @@
 		},
 		{
 			"name": "Powershell member",
-			"scope": [
-				"source.powershell variable.other.member.powershell"
-			],
+			"scope": ["source.powershell variable.other.member.powershell"],
 			"settings": {
 				"foreground": "#af3a03"
 			}
 		},
 		{
 			"name": "Powershell function",
-			"scope": [
-				"source.powershell support.function.powershell"
-			],
+			"scope": ["source.powershell support.function.powershell"],
 			"settings": {
 				"foreground": "#b57614"
 			}
 		},
 		{
 			"name": "Powershell function attribute",
-			"scope": [
-				"source.powershell support.function.attribute.powershell"
-			],
+			"scope": ["source.powershell support.function.attribute.powershell"],
 			"settings": {
 				"foreground": "#665c54"
 			}
@@ -955,19 +867,14 @@
 		},
 		{
 			"name": "LaTeX preamble",
-			"scope": [
-				"keyword.control.preamble.latex",
-				"keyword.control.include.latex"
-			],
+			"scope": ["keyword.control.preamble.latex", "keyword.control.include.latex"],
 			"settings": {
 				"foreground": "#8f3f71"
 			}
 		},
 		{
 			"name": "LaTeX packages",
-			"scope": [
-				"support.class.latex"
-			],
+			"scope": ["support.class.latex"],
 			"settings": {
 				"foreground": "#427b58"
 			}

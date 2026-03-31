@@ -544,7 +544,10 @@
 		},
 		{
 			"name": "[INI] - Color for Punctuation Separator",
-			"scope": ["source.ini punctuation.separator", "punctuation.separator.key-value.ini"],
+			"scope": [
+				"source.ini punctuation.separator",
+				"punctuation.separator.key-value.ini"
+			],
 			"settings": {
 				"foreground": "#FF9D00"
 			}
@@ -565,7 +568,10 @@
 		},
 		{
 			"name": "[CSS] - Color for ID Selector",
-			"scope": ["entity.other.attribute-name.id.css", "entity.other.attribute-name.pseudo-class.css"],
+			"scope": [
+				"entity.other.attribute-name.id.css",
+				"entity.other.attribute-name.pseudo-class.css"
+			],
 			"settings": {
 				"foreground": "#FFB454"
 			}
@@ -740,7 +746,10 @@
 		},
 		{
 			"name": "[JAVASCRIPT REACT] — JSX HTML",
-			"scope": ["punctuation.definition.tag.begin.js", "punctuation.definition.tag.end.js"],
+			"scope": [
+				"punctuation.definition.tag.begin.js",
+				"punctuation.definition.tag.end.js"
+			],
 			"settings": {
 				"foreground": "#9EFFFF"
 			}
@@ -754,7 +763,13 @@
 		},
 		{
 			"name": "[JAVASCRIPT] — Storage types",
-			"scope": ["storage.type", "storage.type.class", "storage.modifier", "keyword.control", "keyword.operator"],
+			"scope": [
+				"storage.type",
+				"storage.type.class",
+				"storage.modifier",
+				"keyword.control",
+				"keyword.operator"
+			],
 			"settings": {
 				"foreground": "#FF9D00"
 			}
@@ -955,7 +970,10 @@
 		},
 		{
 			"name": "[MARKDOWN] - Color for Quote Paragraph",
-			"scope": ["markup.quote.markdown meta.paragraph.markdown", "punctuation.definition.quote.begin.markdown"],
+			"scope": [
+				"markup.quote.markdown meta.paragraph.markdown",
+				"punctuation.definition.quote.begin.markdown"
+			],
 			"settings": {
 				"foreground": "#A599E9"
 			}
@@ -1020,7 +1038,10 @@
 		},
 		{
 			"name": "[MARKDOWN] - Color for Link/Image Title",
-			"scope": ["markup.underline.link.markdown", "string.other.link.description.title.markdown"],
+			"scope": [
+				"markup.underline.link.markdown",
+				"string.other.link.description.title.markdown"
+			],
 			"settings": {
 				"foreground": "#A599E9"
 			}
@@ -1222,7 +1243,10 @@
 		},
 		{
 			"name": "[PHP Blade] - Construct",
-			"scope": ["support.function.construct.begin.blade", "support.function.construct.end.blade"],
+			"scope": [
+				"support.function.construct.begin.blade",
+				"support.function.construct.end.blade"
+			],
 			"settings": {
 				"foreground": "#FFEE80"
 			}
@@ -1378,7 +1402,10 @@
 		},
 		{
 			"name": "[TOML] — Other keywords",
-			"scope": ["entity.other.attribute-name.table.array.toml", "entity.other.attribute-name.table.toml"],
+			"scope": [
+				"entity.other.attribute-name.table.array.toml",
+				"entity.other.attribute-name.table.toml"
+			],
 			"settings": {
 				"foreground": "#FF9D00"
 			}
@@ -1480,7 +1507,11 @@
 		},
 		{
 			"name": "[NIM] — {}",
-			"scope": ["punctuation.pragma.start.nim", "punctuation.pragma.end.nim", "entity.name.function.nim"],
+			"scope": [
+				"punctuation.pragma.start.nim",
+				"punctuation.pragma.end.nim",
+				"entity.name.function.nim"
+			],
 			"settings": {
 				"foreground": "#fad000"
 			}

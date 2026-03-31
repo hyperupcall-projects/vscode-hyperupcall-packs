@@ -22,10 +22,7 @@
 		},
 		{
 			"name": "Comments",
-			"scope": [
-				"comment",
-				"punctuation.definition.comment"
-			],
+			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"foreground": "#797379"
 			}
@@ -60,10 +57,7 @@
 		},
 		{
 			"name": "Keywords",
-			"scope": [
-				"keyword",
-				"keyword.control"
-			],
+			"scope": ["keyword", "keyword.control"],
 			"settings": {
 				"foreground": "#c85e7c"
 			}
@@ -77,22 +71,14 @@
 		},
 		{
 			"name": "Functions",
-			"scope": [
-				"entity.name.function",
-				"meta.require",
-				"support.function.any-method"
-			],
+			"scope": ["entity.name.function", "meta.require", "support.function.any-method"],
 			"settings": {
 				"foreground": "#1290bf"
 			}
 		},
 		{
 			"name": "Classes",
-			"scope": [
-				"support.class",
-				"entity.name.class",
-				"entity.name.type"
-			],
+			"scope": ["support.class", "entity.name.class", "entity.name.type"],
 			"settings": {
 				"foreground": "#fdcc59"
 			}
@@ -120,11 +106,7 @@
 		},
 		{
 			"name": "Strings, Inherited Class",
-			"scope": [
-				"string",
-				"constant.other.symbol",
-				"entity.other.inherited-class"
-			],
+			"scope": ["string", "constant.other.symbol", "entity.other.inherited-class"],
 			"settings": {
 				"foreground": "#8fc13e"
 			}
@@ -173,10 +155,7 @@
 		},
 		{
 			"name": "Attribute IDs",
-			"scope": [
-				"entity.other.attribute-name.id",
-				"punctuation.definition.entity"
-			],
+			"scope": ["entity.other.attribute-name.id", "punctuation.definition.entity"],
 			"settings": {
 				"foreground": "#1290bf"
 			}
@@ -217,10 +196,7 @@
 		},
 		{
 			"name": "Bold",
-			"scope": [
-				"markup.bold",
-				"punctuation.definition.bold"
-			],
+			"scope": ["markup.bold", "punctuation.definition.bold"],
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#fdcc59"
@@ -228,10 +204,7 @@
 		},
 		{
 			"name": "Italic",
-			"scope": [
-				"markup.italic",
-				"punctuation.definition.italic"
-			],
+			"scope": ["markup.italic", "punctuation.definition.italic"],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#c85e7c"
@@ -324,10 +297,7 @@
 		},
 		{
 			"name": "Embedded",
-			"scope": [
-				"punctuation.section.embedded",
-				"variable.interpolation"
-			],
+			"scope": ["punctuation.section.embedded", "variable.interpolation"],
 			"settings": {
 				"foreground": "#149b93"
 			}

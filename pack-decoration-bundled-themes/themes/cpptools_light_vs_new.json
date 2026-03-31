@@ -205,10 +205,7 @@
 			}
 		},
 		{
-			"scope": [
-				"meta.preprocessor",
-				"entity.name.function.preprocessor"
-			],
+			"scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
 			"settings": {
 				"foreground": "#0000ff"
 			}
@@ -244,19 +241,13 @@
 			}
 		},
 		{
-			"scope": [
-				"storage.modifier",
-				"keyword.operator.noexcept"
-			],
+			"scope": ["storage.modifier", "keyword.operator.noexcept"],
 			"settings": {
 				"foreground": "#0000ff"
 			}
 		},
 		{
-			"scope": [
-				"string",
-				"meta.embedded.assembly"
-			],
+			"scope": ["string", "meta.embedded.assembly"],
 			"settings": {
 				"foreground": "#a31515"
 			}
@@ -302,9 +293,7 @@
 		},
 		{
 			"name": "Reset JavaScript string interpolation expression",
-			"scope": [
-				"meta.template.expression"
-			],
+			"scope": ["meta.template.expression"],
 			"settings": {
 				"foreground": "#000000"
 			}
@@ -337,9 +326,7 @@
 			}
 		},
 		{
-			"scope": [
-				"support.type.property-name.json"
-			],
+			"scope": ["support.type.property-name.json"],
 			"settings": {
 				"foreground": "#0451a5"
 			}
@@ -513,7 +500,7 @@
 				"meta.definition.variable.name",
 				"support.variable",
 				"entity.name.variable",
-				"constant.other.placeholder", // placeholders in strings
+				"constant.other.placeholder" // placeholders in strings
 			],
 			"settings": {
 				"foreground": "#001080"
@@ -521,19 +508,14 @@
 		},
 		{
 			"name": "Constants and enums",
-			"scope": [
-				"variable.other.constant",
-				"variable.other.enummember"
-			],
+			"scope": ["variable.other.constant", "variable.other.enummember"],
 			"settings": {
-				"foreground": "#0070C1",
+				"foreground": "#0070C1"
 			}
 		},
 		{
 			"name": "Object keys, TS grammar specific",
-			"scope": [
-				"meta.object-literal.key"
-			],
+			"scope": ["meta.object-literal.key"],
 			"settings": {
 				"foreground": "#001080"
 			}
@@ -586,10 +568,7 @@
 			}
 		},
 		{
-			"scope": [
-				"keyword.operator.or.regexp",
-				"keyword.control.anchor.regexp"
-			],
+			"scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
 			"settings": {
 				"foreground": "#EE0000"
 			}
@@ -637,10 +616,7 @@
 			}
 		},
 		{
-			"scope": [
-				"comment",
-				"punctuation.definition.comment"
-			],
+			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"foreground": "#008000"
 			}
@@ -740,17 +716,14 @@
 				"meta.definition.variable.name",
 				"support.variable",
 				"entity.name.variable",
-				"constant.other.placeholder", // placeholders in strings
+				"constant.other.placeholder" // placeholders in strings
 			],
 			"settings": {
 				"foreground": "#1F377F"
 			}
 		},
 		{
-			"scope": [
-				"keyword.operator.or.regexp",
-				"keyword.control.anchor.regexp"
-			],
+			"scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
 			"settings": {
 				"foreground": "#B776FB"
 			}
@@ -788,6 +761,6 @@
 		"newOperator": "#0000FF",
 		"stringLiteral": "#a31515",
 		"customLiteral": "#74531F",
-		"numberLiteral": "#098658",
+		"numberLiteral": "#098658"
 	}
 }

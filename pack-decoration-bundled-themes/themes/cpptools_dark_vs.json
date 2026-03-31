@@ -32,7 +32,7 @@
 			"scope": [
 				"meta.embedded",
 				"source.groovy.embedded",
-				"string meta.image.inline.markdown",
+				"string meta.image.inline.markdown"
 			],
 			"settings": {
 				"foreground": "#D4D4D4"
@@ -200,10 +200,7 @@
 			}
 		},
 		{
-			"scope": [
-				"meta.preprocessor",
-				"entity.name.function.preprocessor"
-			],
+			"scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
 			"settings": {
 				"foreground": "#569cd6"
 			}
@@ -245,19 +242,13 @@
 			}
 		},
 		{
-			"scope": [
-				"storage.modifier",
-				"keyword.operator.noexcept"
-			],
+			"scope": ["storage.modifier", "keyword.operator.noexcept"],
 			"settings": {
 				"foreground": "#569cd6"
 			}
 		},
 		{
-			"scope": [
-				"string",
-				"meta.embedded.assembly"
-			],
+			"scope": ["string", "meta.embedded.assembly"],
 			"settings": {
 				"foreground": "#ce9178"
 			}
@@ -293,9 +284,7 @@
 		},
 		{
 			"name": "Reset JavaScript string interpolation expression",
-			"scope": [
-				"meta.template.expression"
-			],
+			"scope": ["meta.template.expression"],
 			"settings": {
 				"foreground": "#d4d4d4"
 			}
@@ -442,10 +431,7 @@
 			}
 		},
 		{
-			"scope": [
-				"entity.name.type",
-				"entity.name.class"
-			],
+			"scope": ["entity.name.type", "entity.name.class"],
 			"settings": {
 				"foreground": "#4EC9B0"
 			}
@@ -469,10 +455,7 @@
 			}
 		},
 		{
-			"scope": [
-				"keyword.operator.new",
-				"keyword.operator.delete"
-			],
+			"scope": ["keyword.operator.new", "keyword.operator.delete"],
 			"settings": {
 				"foreground": "#569CD6"
 			}
