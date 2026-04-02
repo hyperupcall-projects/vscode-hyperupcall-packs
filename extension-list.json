@@ -1462,20 +1462,15 @@
 				"vlanguage.vscode-vlang",
 				"mshr-h.veriloghdl",
 				"xadillax.viml",
-				"davidnussio.vscode-jq-playground",
-				"dandric.vscode-jq",
 				"ocamllabs.ocaml-platform",
 				"julialang.language-julia",
 				"mike-lischke.vscode-antlr4",
 				"remcohaszing.schemastore",
-				"earthly.earthfile-syntax-highlighting",
 				"crystal-lang-tools.crystal-lang",
 				"asciidoctor.asciidoctor-vscode",
-				"dhall.dhall-lang",
-				"dhall.vscode-dhall-lsp-server",
 				"lextudio.restructuredtext",
 				"trond-snekvik.simple-rst",
-				"tomoki1207.pdf"
+				"swyddfa.esbonio"
 			]
 		}
 	},
