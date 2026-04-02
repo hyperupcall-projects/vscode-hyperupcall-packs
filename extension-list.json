@@ -1569,7 +1569,7 @@
 			"name": "vscode-hyperupcall-pack-ruby",
 			"displayName": "Edwin's Pack: Ruby",
 			"description": "Extensions for Ruby",
-			"version": "0.5.4",
+			"version": "0.6.0",
 			"publisher": "EdwinKofler",
 			"icon": "assets/icon.png",
 			"license": "MPL-2.0",
