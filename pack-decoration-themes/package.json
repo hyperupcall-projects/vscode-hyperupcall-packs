@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-themes",
 	"displayName": "Edwin's Pack: Themes",
 	"description": "Extensions that add a color theme",
-	"version": "0.8.4",
+	"version": "0.9.0",
 	"publisher": "EdwinKofler",
 	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
