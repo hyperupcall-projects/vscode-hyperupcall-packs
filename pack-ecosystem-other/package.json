@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-other",
 	"displayName": "Edwin's Pack: Other",
 	"description": "Extensions for random things",
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"publisher": "EdwinKofler",
 	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
