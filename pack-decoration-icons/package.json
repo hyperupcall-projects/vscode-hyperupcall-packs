@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-icons",
 	"displayName": "Edwin's Pack: Icons",
 	"description": "Extensions that add a file icon theme",
-	"version": "0.5.4",
+	"version": "0.6.0",
 	"publisher": "EdwinKofler",
 	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
