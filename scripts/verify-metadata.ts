@@ -82,7 +82,13 @@ for (const stat of fs.readdirSync('./', { withFileTypes: true })) {
 	}
 
 	// Assert that extensions in readme and package.json are equivalent and in the same order.
-	const extensionPack = (packageJson.extensionPack as string[]) || []
+	let extensionPack = (packageJson.extensionPack as string[]) || []
+	if (packDir === 'pack-decoration-bundled-themes') {
+		const themesPackageJson: PackageJson = JSON.parse(
+			fs.readFileSync(path.join('pack-decoration-themes', 'package.json'), 'utf-8'),
+		)
+		extensionPack = (themesPackageJson.extensionPack as string[]) || []
+	}
 	const readmeExtensions: string[] = []
 	const extensionLinkRegex = /^- \[.*?\]\(.*?itemName=([^)]+)\)/
 	for (const line of readmeLines) {
