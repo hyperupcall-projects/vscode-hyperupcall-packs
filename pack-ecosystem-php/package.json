@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-php",
 	"displayName": "Edwin's Pack: PHP",
 	"description": "Extensions for PHP",
-	"version": "0.3.9",
+	"version": "0.4.0",
 	"publisher": "EdwinKofler",
 	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
