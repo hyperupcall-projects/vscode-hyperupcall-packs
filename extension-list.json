@@ -1101,7 +1101,7 @@
 			"name": "vscode-hyperupcall-pack-all",
 			"displayName": "Edwin's Pack: All",
 			"description": "Extensions for All",
-			"version": "0.1.6",
+			"version": "0.2.0",
 			"publisher": "EdwinKofler",
 			"icon": "assets/icon.png",
 			"license": "MPL-2.0",
