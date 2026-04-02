@@ -21,14 +21,14 @@ Includes:
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-- [Github Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
-- [Github Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=github.copilot-chat)
+- [Github Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=github.vscode-pull-request-github)
+- [Dependi](fhttps://marketplace.visualstudio.com/items?itemName=fill-labs.dependi)
 
 **Very Useful**
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Polacode (Jeff Hykin fork)](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 - [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
 - [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
@@ -38,8 +38,6 @@ Includes:
 **Nice to have**
 
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)
-- [Docs View](https://marketplace.visualstudio.com/items?itemName=bierner.docs-view)
-- [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [hyperupcall](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall)
 

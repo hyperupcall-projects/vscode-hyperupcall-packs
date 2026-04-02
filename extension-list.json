@@ -45,19 +45,17 @@
 				"Gruntfuggly.todo-tree",
 				"alefragnani.Bookmarks",
 				"ms-azuretools.vscode-docker",
-				"GitHub.copilot",
-				"GitHub.vscode-github-actions",
-				"GitHub.vscode-pull-request-github",
+				"github.copilot-chat",
+				"github.vscode-pull-request-github",
+				"fill-labs.dependi",
 				"ritwickdey.LiveServer",
-				"adpyke.codesnap",
+				"jeff-hykin.polacode-2019",
 				"ms-vscode-remote.remote-ssh",
 				"ms-vscode-remote.remote-ssh-edit",
 				"ms-vscode.remote-explorer",
 				"ms-vscode-remote.remote-containers",
 				"ms-vsliveshare.vsliveshare",
 				"bierner.color-info",
-				"bierner.docs-view",
-				"stackbreak.comment-divider",
 				"aaron-bond.better-comments",
 				"EdwinKofler.vscode-hyperupcall",
 				"redhat.vscode-yaml",
@@ -1642,7 +1640,6 @@
 			],
 			"extensionPack": [
 				"rust-lang.rust-analyzer",
-				"serayuzgur.crates",
 				"swellaby.vscode-rust-test-adapter"
 			]
 		}
