@@ -11,10 +11,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",
@@ -31,7 +31,7 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"DavidAnson.vscode-markdownlint",
+		"davidanson.vscode-markdownlint",
 		"yzhang.markdown-all-in-one",
 		"unifiedjs.vscode-mdx",
 		"bierner.markdown-shiki",

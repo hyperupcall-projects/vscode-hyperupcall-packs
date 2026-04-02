@@ -11,10 +11,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",
@@ -32,14 +32,14 @@
 	],
 	"extensionPack": [
 		"teabyii.ayu",
-		"BeardedBear.beardedtheme",
+		"beardedbear.beardedtheme",
 		"jdinhlife.gruvbox",
 		"liviuschera.noctis",
-		"ms-vscode.Theme-MaterialKit",
-		"ms-vscode.Theme-TomorrowKit",
+		"ms-vscode.theme-materialkit",
+		"ms-vscode.theme-tomorrowkit",
 		"ms-vscode.cpptools-themes",
 		"dracula-theme.theme-dracula",
-		"Catppuccin.catppuccin-vsc",
+		"catppuccin.catppuccin-vsc",
 		"zhuangtongfa.material-theme",
 		"whizkydee.material-palenight-theme",
 		"idleberg.hopscotch",
@@ -47,12 +47,12 @@
 		"enkia.tokyo-night",
 		"azemoh.one-monokai",
 		"ahmadawais.shades-of-purple",
-		"RobbOwen.synthwave-vscode",
+		"robbowen.synthwave-vscode",
 		"johnpapa.winteriscoming",
 		"uloco.theme-bluloco-light",
 		"uloco.theme-bluloco-dark",
-		"ms-vscode.Theme-1337",
-		"GitHub.github-vscode-theme",
+		"ms-vscode.theme-1337",
+		"github.github-vscode-theme",
 		"arcticicestudio.nord-visual-studio-code",
 		"tinkertrain.theme-panda"
 	]

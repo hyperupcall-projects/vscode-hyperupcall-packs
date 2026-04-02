@@ -11,10 +11,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",
@@ -31,20 +31,20 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"EdwinKofler.vscode-hyperupcall-pack-core",
-		"EdwinKofler.vscode-hyperupcall-pack-cpp",
-		"EdwinKofler.vscode-hyperupcall-pack-devops",
-		"EdwinKofler.vscode-hyperupcall-pack-go",
-		"EdwinKofler.vscode-hyperupcall-pack-java",
-		"EdwinKofler.vscode-hyperupcall-pack-latex",
-		"EdwinKofler.vscode-hyperupcall-pack-markdown",
-		"EdwinKofler.vscode-hyperupcall-pack-other",
-		"EdwinKofler.vscode-hyperupcall-pack-php",
-		"EdwinKofler.vscode-hyperupcall-pack-python",
-		"EdwinKofler.vscode-hyperupcall-pack-ruby",
-		"EdwinKofler.vscode-hyperupcall-pack-rust",
-		"EdwinKofler.vscode-hyperupcall-pack-web",
-		"EdwinKofler.vscode-hyperupcall-pack-unix",
-		"EdwinKofler.vscode-hyperupcall-pack-windows"
+		"edwinkofler.vscode-hyperupcall-pack-core",
+		"edwinkofler.vscode-hyperupcall-pack-cpp",
+		"edwinkofler.vscode-hyperupcall-pack-devops",
+		"edwinkofler.vscode-hyperupcall-pack-go",
+		"edwinkofler.vscode-hyperupcall-pack-java",
+		"edwinkofler.vscode-hyperupcall-pack-latex",
+		"edwinkofler.vscode-hyperupcall-pack-markdown",
+		"edwinkofler.vscode-hyperupcall-pack-other",
+		"edwinkofler.vscode-hyperupcall-pack-php",
+		"edwinkofler.vscode-hyperupcall-pack-python",
+		"edwinkofler.vscode-hyperupcall-pack-ruby",
+		"edwinkofler.vscode-hyperupcall-pack-rust",
+		"edwinkofler.vscode-hyperupcall-pack-web",
+		"edwinkofler.vscode-hyperupcall-pack-unix",
+		"edwinkofler.vscode-hyperupcall-pack-windows"
 	]
 }

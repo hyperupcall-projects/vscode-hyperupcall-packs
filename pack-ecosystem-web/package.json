@@ -11,10 +11,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",
@@ -34,18 +34,18 @@
 		"esbenp.prettier-vscode",
 		"dbaeumer.vscode-eslint",
 		"stylelint.vscode-stylelint",
-		"Vue.volar",
+		"vue.volar",
 		"vitest.explorer",
 		"svelte.svelte-vscode",
 		"denoland.vscode-deno",
 		"yoavbls.pretty-ts-errors",
-		"Orta.vscode-twoslash-queries",
+		"orta.vscode-twoslash-queries",
 		"ms-playwright.playwright",
 		"bradlc.vscode-tailwindcss",
 		"christian-kohler.npm-intellisense",
 		"deque-systems.vscode-axe-linter",
 		"firefox-devtools.vscode-firefox-debug",
 		"ms-edgedevtools.vscode-edge-devtools",
-		"xabikos.JavaScriptSnippets"
+		"xabikos.javascriptsnippets"
 	]
 }

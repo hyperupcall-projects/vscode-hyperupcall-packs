@@ -11,10 +11,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",
@@ -31,11 +31,11 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"EdwinKofler.vscode-hyperupcall-pack-base",
-		"EdwinKofler.vscode-hyperupcall-pack-themes",
-		"EdwinKofler.vscode-hyperupcall-pack-icons",
-		"EdwinKofler.vscode-hyperupcall-pack-product-icons",
-		"EdwinKofler.vscode-hyperupcall-pack-syntax",
-		"EdwinKofler.vscode-hyperupcall-pack-markdown"
+		"edwinkofler.vscode-hyperupcall-pack-base",
+		"edwinkofler.vscode-hyperupcall-pack-themes",
+		"edwinkofler.vscode-hyperupcall-pack-icons",
+		"edwinkofler.vscode-hyperupcall-pack-product-icons",
+		"edwinkofler.vscode-hyperupcall-pack-syntax",
+		"edwinkofler.vscode-hyperupcall-pack-markdown"
 	]
 }

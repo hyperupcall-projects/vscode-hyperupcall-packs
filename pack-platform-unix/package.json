@@ -11,10 +11,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",
@@ -37,7 +37,7 @@
 		"jeff-hykin.better-shellscript-syntax",
 		"bmalehorn.vscode-fish",
 		"elves.elvish",
-		"TheNuProjectContributors.vscode-nushell-lang",
+		"thenuprojectcontributors.vscode-nushell-lang",
 		"jeff-hykin.better-perl-syntax"
 	]
 }

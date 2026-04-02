@@ -11,10 +11,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",
@@ -31,7 +31,7 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"EditorConfig.EditorConfig",
+		"editorconfig.editorconfig",
 		"usernamehw.errorlens",
 		"christian-kohler.path-intellisense",
 		"naumovs.color-highlight",
@@ -39,13 +39,13 @@
 		"eamodio.gitlens",
 		"donjayamanne.githistory",
 		"waderyan.gitblame",
-		"Gruntfuggly.todo-tree",
-		"alefragnani.Bookmarks",
+		"gruntfuggly.todo-tree",
+		"alefragnani.bookmarks",
 		"ms-azuretools.vscode-docker",
 		"github.copilot-chat",
 		"github.vscode-pull-request-github",
 		"fill-labs.dependi",
-		"ritwickdey.LiveServer",
+		"ritwickdey.liveserver",
 		"jeff-hykin.polacode-2019",
 		"ms-vscode-remote.remote-ssh",
 		"ms-vscode-remote.remote-ssh-edit",
@@ -54,11 +54,11 @@
 		"ms-vsliveshare.vsliveshare",
 		"bierner.color-info",
 		"aaron-bond.better-comments",
-		"EdwinKofler.vscode-hyperupcall",
+		"edwinkofler.vscode-hyperupcall",
 		"redhat.vscode-yaml",
 		"redhat.vscode-xml",
 		"tamasfe.even-better-toml",
-		"EdwinKofler.vscode-assorted-languages",
-		"EdwinKofler.vscode-hyperupcall-pack-markdown"
+		"edwinkofler.vscode-assorted-languages",
+		"edwinkofler.vscode-hyperupcall-pack-markdown"
 	]
 }

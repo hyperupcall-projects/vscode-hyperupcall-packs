@@ -46,7 +46,7 @@ const packageJsonConfig: PackageJsonConfig = {
 		url: 'https://edwinkofler.com',
 	},
 	license: '',
-	repository: 'https://github.com/hyperupcall-self/vscode-hyperupcall-packs',
+	repository: 'https://github.com/hyperupcall-projects/vscode-hyperupcall-packs',
 	vscodeEngine: '^1.80.0',
 }
 

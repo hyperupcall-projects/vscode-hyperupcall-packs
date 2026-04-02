@@ -5,7 +5,7 @@
 			"name": "vscode-hyperupcall-pack-base",
 			"displayName": "Edwin's Pack: Base",
 			"description": "Includes things like EditorConfig, Error Lens, etc.",
-			"version": "0.11.1",
+			"version": "0.12.0",
 			"publisher": "EdwinKofler",
 			"icon": "assets/icon.png",
 			"license": "MPL-2.0",
@@ -14,10 +14,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -34,7 +34,7 @@
 				"Extension Packs"
 			],
 			"extensionPack": [
-				"EditorConfig.EditorConfig",
+				"editorconfig.editorconfig",
 				"usernamehw.errorlens",
 				"christian-kohler.path-intellisense",
 				"naumovs.color-highlight",
@@ -42,13 +42,13 @@
 				"eamodio.gitlens",
 				"donjayamanne.githistory",
 				"waderyan.gitblame",
-				"Gruntfuggly.todo-tree",
-				"alefragnani.Bookmarks",
+				"gruntfuggly.todo-tree",
+				"alefragnani.bookmarks",
 				"ms-azuretools.vscode-docker",
 				"github.copilot-chat",
 				"github.vscode-pull-request-github",
 				"fill-labs.dependi",
-				"ritwickdey.LiveServer",
+				"ritwickdey.liveserver",
 				"jeff-hykin.polacode-2019",
 				"ms-vscode-remote.remote-ssh",
 				"ms-vscode-remote.remote-ssh-edit",
@@ -57,12 +57,12 @@
 				"ms-vsliveshare.vsliveshare",
 				"bierner.color-info",
 				"aaron-bond.better-comments",
-				"EdwinKofler.vscode-hyperupcall",
+				"edwinkofler.vscode-hyperupcall",
 				"redhat.vscode-yaml",
 				"redhat.vscode-xml",
 				"tamasfe.even-better-toml",
-				"EdwinKofler.vscode-assorted-languages",
-				"EdwinKofler.vscode-hyperupcall-pack-markdown"
+				"edwinkofler.vscode-assorted-languages",
+				"edwinkofler.vscode-hyperupcall-pack-markdown"
 			]
 		}
 	},
@@ -80,10 +80,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -876,10 +876,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -896,12 +896,12 @@
 				"Extension Packs"
 			],
 			"extensionPack": [
-				"EdwinKofler.vscode-hyperupcall-pack-base",
-				"EdwinKofler.vscode-hyperupcall-pack-themes",
-				"EdwinKofler.vscode-hyperupcall-pack-icons",
-				"EdwinKofler.vscode-hyperupcall-pack-product-icons",
-				"EdwinKofler.vscode-hyperupcall-pack-syntax",
-				"EdwinKofler.vscode-hyperupcall-pack-markdown"
+				"edwinkofler.vscode-hyperupcall-pack-base",
+				"edwinkofler.vscode-hyperupcall-pack-themes",
+				"edwinkofler.vscode-hyperupcall-pack-icons",
+				"edwinkofler.vscode-hyperupcall-pack-product-icons",
+				"edwinkofler.vscode-hyperupcall-pack-syntax",
+				"edwinkofler.vscode-hyperupcall-pack-markdown"
 			]
 		}
 	},
@@ -920,10 +920,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -941,9 +941,9 @@
 			],
 			"extensionPack": [
 				"file-icons.file-icons",
-				"Catppuccin.catppuccin-vsc-icons",
+				"catppuccin.catppuccin-vsc-icons",
 				"tal7aouy.icons",
-				"BeardedBear.beardedicons",
+				"beardedbear.beardedicons",
 				"miguelsolorio.symbols"
 			]
 		}
@@ -963,10 +963,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1004,10 +1004,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1029,7 +1029,7 @@
 				"jeff-hykin.better-csv-syntax",
 				"jeff-hykin.better-shellscript-syntax",
 				"dtsvet.vscode-wasm",
-				"EdwinKofler.vscode-assorted-languages"
+				"edwinkofler.vscode-assorted-languages"
 			]
 		}
 	},
@@ -1048,10 +1048,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1069,14 +1069,14 @@
 			],
 			"extensionPack": [
 				"teabyii.ayu",
-				"BeardedBear.beardedtheme",
+				"beardedbear.beardedtheme",
 				"jdinhlife.gruvbox",
 				"liviuschera.noctis",
-				"ms-vscode.Theme-MaterialKit",
-				"ms-vscode.Theme-TomorrowKit",
+				"ms-vscode.theme-materialkit",
+				"ms-vscode.theme-tomorrowkit",
 				"ms-vscode.cpptools-themes",
 				"dracula-theme.theme-dracula",
-				"Catppuccin.catppuccin-vsc",
+				"catppuccin.catppuccin-vsc",
 				"zhuangtongfa.material-theme",
 				"whizkydee.material-palenight-theme",
 				"idleberg.hopscotch",
@@ -1084,12 +1084,12 @@
 				"enkia.tokyo-night",
 				"azemoh.one-monokai",
 				"ahmadawais.shades-of-purple",
-				"RobbOwen.synthwave-vscode",
+				"robbowen.synthwave-vscode",
 				"johnpapa.winteriscoming",
 				"uloco.theme-bluloco-light",
 				"uloco.theme-bluloco-dark",
-				"ms-vscode.Theme-1337",
-				"GitHub.github-vscode-theme",
+				"ms-vscode.theme-1337",
+				"github.github-vscode-theme",
 				"arcticicestudio.nord-visual-studio-code",
 				"tinkertrain.theme-panda"
 			]
@@ -1110,10 +1110,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1130,21 +1130,21 @@
 				"Extension Packs"
 			],
 			"extensionPack": [
-				"EdwinKofler.vscode-hyperupcall-pack-core",
-				"EdwinKofler.vscode-hyperupcall-pack-cpp",
-				"EdwinKofler.vscode-hyperupcall-pack-devops",
-				"EdwinKofler.vscode-hyperupcall-pack-go",
-				"EdwinKofler.vscode-hyperupcall-pack-java",
-				"EdwinKofler.vscode-hyperupcall-pack-latex",
-				"EdwinKofler.vscode-hyperupcall-pack-markdown",
-				"EdwinKofler.vscode-hyperupcall-pack-other",
-				"EdwinKofler.vscode-hyperupcall-pack-php",
-				"EdwinKofler.vscode-hyperupcall-pack-python",
-				"EdwinKofler.vscode-hyperupcall-pack-ruby",
-				"EdwinKofler.vscode-hyperupcall-pack-rust",
-				"EdwinKofler.vscode-hyperupcall-pack-web",
-				"EdwinKofler.vscode-hyperupcall-pack-unix",
-				"EdwinKofler.vscode-hyperupcall-pack-windows"
+				"edwinkofler.vscode-hyperupcall-pack-core",
+				"edwinkofler.vscode-hyperupcall-pack-cpp",
+				"edwinkofler.vscode-hyperupcall-pack-devops",
+				"edwinkofler.vscode-hyperupcall-pack-go",
+				"edwinkofler.vscode-hyperupcall-pack-java",
+				"edwinkofler.vscode-hyperupcall-pack-latex",
+				"edwinkofler.vscode-hyperupcall-pack-markdown",
+				"edwinkofler.vscode-hyperupcall-pack-other",
+				"edwinkofler.vscode-hyperupcall-pack-php",
+				"edwinkofler.vscode-hyperupcall-pack-python",
+				"edwinkofler.vscode-hyperupcall-pack-ruby",
+				"edwinkofler.vscode-hyperupcall-pack-rust",
+				"edwinkofler.vscode-hyperupcall-pack-web",
+				"edwinkofler.vscode-hyperupcall-pack-unix",
+				"edwinkofler.vscode-hyperupcall-pack-windows"
 			]
 		}
 	},
@@ -1163,10 +1163,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1216,10 +1216,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1237,11 +1237,11 @@
 			],
 			"extensionPack": [
 				"4ops.terraform",
-				"HashiCorp.HCL",
+				"hashicorp.hcl",
 				"puppet.puppet-vscode",
 				"ms-kubernetes-tools.vscode-kubernetes-tools",
 				"redhat.vscode-yaml",
-				"Sebbia.jsonnetng"
+				"sebbia.jsonnetng"
 			]
 		}
 	},
@@ -1260,10 +1260,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1301,10 +1301,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1346,10 +1346,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1367,7 +1367,7 @@
 			],
 			"extensionPack": [
 				"tecosaur.latex-utilities",
-				"James-Yu.latex-workshop"
+				"james-yu.latex-workshop"
 			]
 		}
 	},
@@ -1386,10 +1386,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1406,7 +1406,7 @@
 				"Extension Packs"
 			],
 			"extensionPack": [
-				"DavidAnson.vscode-markdownlint",
+				"davidanson.vscode-markdownlint",
 				"yzhang.markdown-all-in-one",
 				"unifiedjs.vscode-mdx",
 				"bierner.markdown-shiki",
@@ -1434,10 +1434,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1459,8 +1459,8 @@
 				"idleberg.nsis",
 				"aesl.odin",
 				"vlanguage.vscode-vlang",
-				"mshr-h.VerilogHDL",
-				"XadillaX.viml",
+				"mshr-h.veriloghdl",
+				"xadillax.viml",
 				"davidnussio.vscode-jq-playground",
 				"dandric.vscode-jq",
 				"ocamllabs.ocaml-platform",
@@ -1493,10 +1493,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1513,8 +1513,8 @@
 				"Extension Packs"
 			],
 			"extensionPack": [
-				"DEVSENSE.phptools-vscode",
-				"DEVSENSE.profiler-php-vscode"
+				"devsense.phptools-vscode",
+				"devsense.profiler-php-vscode"
 			]
 		}
 	},
@@ -1533,10 +1533,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1559,7 +1559,7 @@
 				"njpwerner.autodocstring",
 				"donjayamanne.python-environment-manager",
 				"tushortz.python-extended-snippets",
-				"LittleFoxTeam.vscode-python-test-adapter"
+				"littlefoxteam.vscode-python-test-adapter"
 			]
 		}
 	},
@@ -1578,10 +1578,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1598,8 +1598,8 @@
 				"Extension Packs"
 			],
 			"extensionPack": [
-				"Shopify.ruby-lsp",
-				"KoichiSasada.vscode-rdbg",
+				"shopify.ruby-lsp",
+				"koichisasada.vscode-rdbg",
 				"sorbet.sorbet-vscode-extension"
 			]
 		}
@@ -1610,7 +1610,7 @@
 			"name": "vscode-hyperupcall-pack-rust",
 			"displayName": "Edwin's Pack: Rust",
 			"description": "Extensions for Rust",
-			"version": "0.4.4",
+			"version": "0.5.0",
 			"publisher": "EdwinKofler",
 			"icon": "assets/icon.png",
 			"license": "MPL-2.0",
@@ -1619,10 +1619,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1659,10 +1659,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1682,19 +1682,19 @@
 				"esbenp.prettier-vscode",
 				"dbaeumer.vscode-eslint",
 				"stylelint.vscode-stylelint",
-				"Vue.volar",
+				"vue.volar",
 				"vitest.explorer",
 				"svelte.svelte-vscode",
 				"denoland.vscode-deno",
 				"yoavbls.pretty-ts-errors",
-				"Orta.vscode-twoslash-queries",
+				"orta.vscode-twoslash-queries",
 				"ms-playwright.playwright",
 				"bradlc.vscode-tailwindcss",
 				"christian-kohler.npm-intellisense",
 				"deque-systems.vscode-axe-linter",
 				"firefox-devtools.vscode-firefox-debug",
 				"ms-edgedevtools.vscode-edge-devtools",
-				"xabikos.JavaScriptSnippets"
+				"xabikos.javascriptsnippets"
 			]
 		}
 	},
@@ -1713,10 +1713,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",
@@ -1739,7 +1739,7 @@
 				"jeff-hykin.better-shellscript-syntax",
 				"bmalehorn.vscode-fish",
 				"elves.elvish",
-				"TheNuProjectContributors.vscode-nushell-lang",
+				"thenuprojectcontributors.vscode-nushell-lang",
 				"jeff-hykin.better-perl-syntax"
 			]
 		}
@@ -1759,10 +1759,10 @@
 			},
 			"repository": {
 				"type": "git",
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 			},
 			"bugs": {
-				"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 			},
 			"author": {
 				"name": "Edwin Kofler",

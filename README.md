@@ -47,9 +47,9 @@ Click the _Extensions_ tab and search for `Edwin's Pack:` to see all the packs. 
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"EdwinKofler.vscode-hyperupcall-pack-core",
-				"EdwinKofler.vscode-hyperupcall-pack-web",
-				"EdwinKofler.vscode-hyperupcall-pack-unix",
+				"edwinkofler.vscode-hyperupcall-pack-core",
+				"edwinkofler.vscode-hyperupcall-pack-web",
+				"edwinkofler.vscode-hyperupcall-pack-unix",
 			],
 		},
 	},

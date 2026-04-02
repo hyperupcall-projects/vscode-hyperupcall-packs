@@ -11,10 +11,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall-self/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",
@@ -31,8 +31,8 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"Shopify.ruby-lsp",
-		"KoichiSasada.vscode-rdbg",
+		"shopify.ruby-lsp",
+		"koichisasada.vscode-rdbg",
 		"sorbet.sorbet-vscode-extension"
 	]
 }

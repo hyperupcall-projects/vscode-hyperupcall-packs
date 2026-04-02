@@ -11,5 +11,5 @@ Includes:
 - [Better Shell Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-shellscript-syntax)
 - [Fish](https://marketplace.visualstudio.com/items?itemName=bmalehorn.vscode-fish)
 - [Elvish](https://marketplace.visualstudio.com/items?itemName=elves.elvish)
-- [vscode-nushell-lang](https://marketplace.visualstudio.com/items?itemName=TheNuProjectContributors.vscode-nushell-lang)
+- [vscode-nushell-lang](https://marketplace.visualstudio.com/items?itemName=thenuprojectcontributors.vscode-nushell-lang)
 - [jeff-hykin.better-perl-syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-perl-syntax)
