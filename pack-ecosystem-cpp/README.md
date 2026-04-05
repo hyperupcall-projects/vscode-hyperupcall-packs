@@ -6,7 +6,6 @@
 Includes:
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-- [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
 - [Meson](https://marketplace.visualstudio.com/items?itemName=mesonbuild.mesonbuild)
 - [XMake](https://marketplace.visualstudio.com/items?itemName=tboox.xmake-vscode)

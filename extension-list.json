@@ -1184,7 +1184,6 @@
 			],
 			"extensionPack": [
 				"ms-vscode.cpptools",
-				"twxs.cmake",
 				"ms-vscode.cmake-tools",
 				"mesonbuild.mesonbuild",
 				"tboox.xmake-vscode",
