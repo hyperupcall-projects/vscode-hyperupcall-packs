@@ -14,6 +14,9 @@ for (const stat of fs.readdirSync('./', { withFileTypes: true })) {
 	if (!stat.isDirectory() || !stat.name.startsWith('pack-')) {
 		continue
 	}
+	if (['pack-decoration-core', 'pack-decoration-product-icons'].includes(stat.name)) {
+		continue
+	}
 	const packDir = stat.name
 	const packageJsonPath = path.join(packDir, 'package.json')
 	const readmePath = path.join(packDir, 'README.md')

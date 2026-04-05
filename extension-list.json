@@ -866,8 +866,8 @@
 		"dirname": "pack-decoration-core",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-core",
-			"displayName": "Edwin's Pack: Core",
-			"description": "CORE EXTENSIONS for ANY VSCode experience",
+			"displayName": "[DEPRECATED] Edwin's Pack: Core",
+			"description": " A meta-extension pack.",
 			"version": "0.7.0",
 			"publisher": "EdwinKofler",
 			"icon": "assets/icon.png",
@@ -953,7 +953,7 @@
 		"dirname": "pack-decoration-product-icons",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-product-icons",
-			"displayName": "Edwin's Pack: Product Icons",
+			"displayName": "[DEPRECATED] Edwin's Pack: Product Icons",
 			"description": "Extensions that add a product icon theme",
 			"version": "0.5.0",
 			"publisher": "EdwinKofler",
