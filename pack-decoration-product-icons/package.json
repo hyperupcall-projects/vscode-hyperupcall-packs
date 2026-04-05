@@ -33,6 +33,7 @@
 	"extensionPack": [
 		"antfu.icons-carbon",
 		"miguelsolorio.fluent-icons",
-		"melishev.feather-vscode"
+		"melishev.feather-vscode",
+		"zguolee.tabler-icons"
 	]
 }

@@ -858,6 +858,76 @@
 						"uiTheme": "vs-dark",
 						"path": "themes/Panda.json"
 					}
+				],
+				"iconThemes": [
+					{
+						"id": "ayu",
+						"label": "Ayu",
+						"path": "icons/ayu-icons-teabyii-ayu-Ayu.json"
+					},
+					{
+						"id": "file-icons",
+						"label": "File Icons",
+						"path": "icons/file-icons-icon-theme-file-icons-file-icons-File-Icons.json"
+					},
+					{
+						"id": "file-icons-colourless",
+						"label": "File Icons (Colourless)",
+						"path": "icons/file-icons-colourless-icon-theme-file-icons-file-icons-File-Icons--Colourless-.json"
+					},
+					{
+						"id": "catppuccin-mocha",
+						"label": "Catppuccin Mocha",
+						"path": "icons/theme-catppuccin-catppuccin-vsc-icons-Catppuccin-Mocha.json"
+					},
+					{
+						"id": "catppuccin-latte",
+						"label": "Catppuccin Latte",
+						"path": "icons/theme-catppuccin-catppuccin-vsc-icons-Catppuccin-Latte.json"
+					},
+					{
+						"id": "catppuccin-frappe",
+						"label": "Catppuccin Frappé",
+						"path": "icons/theme-catppuccin-catppuccin-vsc-icons-Catppuccin-Frapp-.json"
+					},
+					{
+						"id": "catppuccin-macchiato",
+						"label": "Catppuccin Macchiato",
+						"path": "icons/theme-catppuccin-catppuccin-vsc-icons-Catppuccin-Macchiato.json"
+					},
+					{
+						"id": "icons",
+						"label": "Icons",
+						"path": "icons/icons-tal7aouy-icons-Icons.json"
+					},
+					{
+						"id": "bearded-icons",
+						"label": "Bearded Icons",
+						"path": "icons/icons-beardedbear-beardedicons-Bearded-Icons.json"
+					},
+					{
+						"id": "symbols",
+						"label": "Symbol Icons",
+						"path": "icons/symbol-icon-theme.modified-miguelsolorio-symbols-Symbol-Icons.json",
+						"_watch": true
+					}
+				],
+				"productIconThemes": [
+					{
+						"id": "icons-carbon",
+						"label": "Carbon Icons",
+						"path": "product-icons/icons-carbon-antfu-icons-carbon-Carbon-Icons.json"
+					},
+					{
+						"id": "fluent-icons",
+						"label": "Fluent Icons",
+						"path": "product-icons/fluent-icons-miguelsolorio-fluent-icons-Fluent-Icons.json"
+					},
+					{
+						"id": "feather-vscode",
+						"label": "Feather Icons",
+						"path": "product-icons/feather-icons-melishev-feather-vscode-Feather-Icons.json"
+					}
 				]
 			}
 		}
@@ -986,7 +1056,8 @@
 			"extensionPack": [
 				"antfu.icons-carbon",
 				"miguelsolorio.fluent-icons",
-				"melishev.feather-vscode"
+				"melishev.feather-vscode",
+				"zguolee.tabler-icons"
 			]
 		}
 	},
