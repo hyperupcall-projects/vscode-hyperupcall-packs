@@ -35,7 +35,6 @@
 		"jeff-hykin.better-jsonc-syntax",
 		"jeff-hykin.better-csv-syntax",
 		"jeff-hykin.better-shellscript-syntax",
-		"dtsvet.vscode-wasm",
 		"edwinkofler.vscode-assorted-languages"
 	]
 }
