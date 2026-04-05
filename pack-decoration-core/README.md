@@ -6,7 +6,7 @@
 Includes:
 
 - [Edwin's Pack: Base](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-base)
-- [Edwin's Pack: Themes](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-themes)
+- [Edwin's Pack: Bundled Themes](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-bundled-themes)
 - [Edwin's Pack: Icons](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-icons)
 - [Edwin's Pack: Product Icons](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-product-icons)
 - [Edwin's Pack: Syntax](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-syntax)

@@ -32,7 +32,7 @@
 	],
 	"extensionPack": [
 		"edwinkofler.vscode-hyperupcall-pack-base",
-		"edwinkofler.vscode-hyperupcall-pack-themes",
+		"edwinkofler.vscode-hyperupcall-pack-bundled-themes",
 		"edwinkofler.vscode-hyperupcall-pack-icons",
 		"edwinkofler.vscode-hyperupcall-pack-product-icons",
 		"edwinkofler.vscode-hyperupcall-pack-syntax",
