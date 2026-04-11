@@ -31,10 +31,6 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"jeff-hykin.better-dockerfile-syntax",
-		"jeff-hykin.better-jsonc-syntax",
-		"jeff-hykin.better-csv-syntax",
-		"jeff-hykin.better-shellscript-syntax",
 		"edwinkofler.vscode-assorted-languages"
 	]
 }

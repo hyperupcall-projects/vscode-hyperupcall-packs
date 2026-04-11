@@ -5,8 +5,4 @@
 
 Includes:
 
-- [jeff-hykin.better-dockerfile-syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax)
-- [jeff-hykin.better-jsonc-syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-jsonc-syntax)
-- [jeff-hykin.better-csv-syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-csv-syntax)
-- [jeff-hykin.better-shellscript-syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-shellscript-syntax)
 - [edwinkofler.vscode-assorted-languages](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-assorted-languages)
