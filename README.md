@@ -8,11 +8,8 @@ There are three categories of plugin packs:
 
 ### 1. Decoration packs
 
-- Base (Things like EditorConfig, TODO highlighting, etc.)
-- Core (Contains all decoration packs except itself)
+- Base (Things like EditorConfig, GitLens)
 - Icons (Adds [file icon themes](https://code.visualstudio.com/api/extension-guides/file-icon-theme))
-- Product Icons (Adds [product icon themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme))
-- Syntax (Adds [syntax highlightings](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide))
 - Themes (Adds [color themes](https://code.visualstudio.com/api/extension-guides/color-theme))
 
 ### 2. Ecosystem packs

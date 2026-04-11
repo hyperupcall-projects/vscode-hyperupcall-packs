@@ -864,50 +864,6 @@
 		}
 	},
 	{
-		"dirname": "pack-decoration-core",
-		"packageJson": {
-			"name": "vscode-hyperupcall-pack-core",
-			"displayName": "[DEPRECATED] Edwin's Pack: Core",
-			"description": " A meta-extension pack.",
-			"version": "0.8.0",
-			"publisher": "EdwinKofler",
-			"icon": "assets/icon.png",
-			"license": "MPL-2.0",
-			"config": {
-				"namePretty": "Core"
-			},
-			"repository": {
-				"type": "git",
-				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
-			},
-			"bugs": {
-				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
-			},
-			"author": {
-				"name": "Edwin Kofler",
-				"url": "https://edwinkofler.com"
-			},
-			"engines": {
-				"vscode": "^1.58.0"
-			},
-			"files": [
-				"LICENSE",
-				"assets/icon.png"
-			],
-			"categories": [
-				"Extension Packs"
-			],
-			"extensionPack": [
-				"edwinkofler.vscode-hyperupcall-pack-base",
-				"edwinkofler.vscode-hyperupcall-pack-bundled-themes",
-				"edwinkofler.vscode-hyperupcall-pack-icons",
-				"edwinkofler.vscode-hyperupcall-pack-product-icons",
-				"edwinkofler.vscode-hyperupcall-pack-syntax",
-				"edwinkofler.vscode-hyperupcall-pack-markdown"
-			]
-		}
-	},
-	{
 		"dirname": "pack-decoration-icons",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-icons",
@@ -947,87 +903,6 @@
 				"tal7aouy.icons",
 				"beardedbear.beardedicons",
 				"miguelsolorio.symbols"
-			]
-		}
-	},
-	{
-		"dirname": "pack-decoration-product-icons",
-		"packageJson": {
-			"name": "vscode-hyperupcall-pack-product-icons",
-			"displayName": "[DEPRECATED] Edwin's Pack: Product Icons",
-			"description": "Extensions that add a product icon theme",
-			"version": "0.6.0",
-			"publisher": "EdwinKofler",
-			"icon": "assets/icon.png",
-			"license": "MPL-2.0",
-			"config": {
-				"namePretty": "Product Icons"
-			},
-			"repository": {
-				"type": "git",
-				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
-			},
-			"bugs": {
-				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
-			},
-			"author": {
-				"name": "Edwin Kofler",
-				"url": "https://edwinkofler.com"
-			},
-			"engines": {
-				"vscode": "^1.58.0"
-			},
-			"files": [
-				"LICENSE",
-				"assets/icon.png"
-			],
-			"categories": [
-				"Extension Packs"
-			],
-			"extensionPack": [
-				"antfu.icons-carbon",
-				"miguelsolorio.fluent-icons",
-				"melishev.feather-vscode",
-				"zguolee.tabler-icons"
-			]
-		}
-	},
-	{
-		"dirname": "pack-decoration-syntax",
-		"packageJson": {
-			"name": "vscode-hyperupcall-pack-syntax",
-			"displayName": "[DEPRECATED] Edwin's Pack: Syntax",
-			"description": "Extensions that add syntax highlighting",
-			"version": "0.12.0",
-			"publisher": "EdwinKofler",
-			"icon": "assets/icon.png",
-			"license": "MPL-2.0",
-			"config": {
-				"namePretty": "Syntax"
-			},
-			"repository": {
-				"type": "git",
-				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs"
-			},
-			"bugs": {
-				"url": "https://github.com/hyperupcall-projects/vscode-hyperupcall-packs/issues"
-			},
-			"author": {
-				"name": "Edwin Kofler",
-				"url": "https://edwinkofler.com"
-			},
-			"engines": {
-				"vscode": "^1.58.0"
-			},
-			"files": [
-				"LICENSE",
-				"assets/icon.png"
-			],
-			"categories": [
-				"Extension Packs"
-			],
-			"extensionPack": [
-				"edwinkofler.vscode-assorted-languages"
 			]
 		}
 	},
