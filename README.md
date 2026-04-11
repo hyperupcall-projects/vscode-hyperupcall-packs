@@ -15,12 +15,13 @@ There are three categories of plugin packs:
 ### 2. Ecosystem packs
 
 - All (All ecosystem packs and platform packs)
-- Cpp
+- C++
 - DevOps
 - Go
 - Java
 - LaTeX
 - Markdown
+- Other (miscellaneous languages)
 - PHP
 - Python
 - Ruby
