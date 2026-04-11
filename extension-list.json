@@ -1275,8 +1275,7 @@
 			],
 			"extensionPack": [
 				"golang.go",
-				"premparihar.gotestexplorer",
-				"jeff-hykin.better-go-syntax"
+				"premparihar.gotestexplorer"
 			]
 		}
 	},
