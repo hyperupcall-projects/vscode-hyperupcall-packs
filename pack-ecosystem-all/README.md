@@ -5,7 +5,6 @@
 
 Includes:
 
-- [edwinkofler.vscode-hyperupcall-pack-core](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-core)
 - [edwinkofler.vscode-hyperupcall-pack-cpp](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-cpp)
 - [edwinkofler.vscode-hyperupcall-pack-devops](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-devops)
 - [edwinkofler.vscode-hyperupcall-pack-go](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-go)

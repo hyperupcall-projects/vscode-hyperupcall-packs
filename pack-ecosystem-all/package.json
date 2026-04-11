@@ -31,7 +31,6 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"edwinkofler.vscode-hyperupcall-pack-core",
 		"edwinkofler.vscode-hyperupcall-pack-cpp",
 		"edwinkofler.vscode-hyperupcall-pack-devops",
 		"edwinkofler.vscode-hyperupcall-pack-go",
