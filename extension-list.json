@@ -1724,11 +1724,9 @@
 				"ms-vscode.makefile-tools",
 				"timonwong.shellcheck",
 				"mads-hartmann.bash-ide-vscode",
-				"jeff-hykin.better-shellscript-syntax",
 				"bmalehorn.vscode-fish",
 				"elves.elvish",
-				"thenuprojectcontributors.vscode-nushell-lang",
-				"jeff-hykin.better-perl-syntax"
+				"thenuprojectcontributors.vscode-nushell-lang"
 			]
 		}
 	},
