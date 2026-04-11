@@ -14,7 +14,7 @@ for (const stat of fs.readdirSync('./', { withFileTypes: true })) {
 	if (!stat.isDirectory() || !stat.name.startsWith('pack-')) {
 		continue
 	}
-	if (['pack-decoration-core', 'pack-decoration-product-icons'].includes(stat.name)) {
+	if (['pack-decoration-product-icons'].includes(stat.name)) {
 		continue
 	}
 	const packDir = stat.name
@@ -38,7 +38,10 @@ for (const stat of fs.readdirSync('./', { withFileTypes: true })) {
 		logError(packDir, 'package.json missing name')
 		continue
 	}
-	if (readmeLines[0].replace(/\\/g, '') !== `# ${packageJson.displayName}`) {
+	if (
+		readmeLines[0].replace(/\\/g, '') !==
+		`# ${packageJson.displayName}`.replace(' [DEPRECATED]', '')
+	) {
 		logError(
 			packDir,
 			`README title "${readmeLines[0]}" is not equal to "# ${packageJson.displayName}"`,
