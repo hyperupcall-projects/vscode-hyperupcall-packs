@@ -1189,15 +1189,9 @@
 				"mesonbuild.mesonbuild",
 				"tboox.xmake-vscode",
 				"matepek.vscode-catch2-test-adapter",
-				"amiralizadeh9480.cpp-helper",
 				"llvm-vs-code-extensions.vscode-clangd",
 				"vadimcn.vscode-lldb",
-				"revng.llvm-ir",
-				"llvm-vs-code-extensions.vscode-mlir",
-				"cschlosser.doxdocgen",
-				"jeff-hykin.better-c-syntax",
-				"jeff-hykin.better-cpp-syntax",
-				"geforcelegend.vscode-glsl"
+				"llvm-vs-code-extensions.vscode-mlir"
 			]
 		}
 	},
