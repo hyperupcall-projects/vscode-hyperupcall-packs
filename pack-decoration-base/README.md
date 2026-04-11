@@ -46,6 +46,7 @@ Includes:
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
+- [Tombi](https://marketplace.visualstudio.com/items?itemName=tombi-toml.tombi)
 - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=mathematic.vscode-pdf)
 - [Assorted Languages](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-assorted-languages)
 - [Edwin's Pack: Markdown](https://marketplace.visualstudio.com/items?itemName=edwinkofler.vscode-hyperupcall-pack-markdown)
